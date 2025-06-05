@@ -1,5 +1,5 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-## Name : RIzwan T
+## Name : Rizwan T
 ## Reg NO : 212222040134
 ## AIM:
 To create a warehouse application in salesforce.com
